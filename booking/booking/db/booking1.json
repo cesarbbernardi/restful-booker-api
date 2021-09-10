@@ -1,0 +1,11 @@
+{
+    "firstname" : "mr",
+    "lastname" : "misterson",
+    "totalprice" : 10000,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2021-09-06",
+        "checkout" : "2021-09-09"
+    },
+    "additionalneeds" : "none"
+}
